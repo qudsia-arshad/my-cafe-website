@@ -1,0 +1,27 @@
+
+# My Cafe Website
+
+## About
+My Cafe is a simple and attractive cafe website created as part of Lab 12.
+
+## Website Pages
+- Home – Introduction to My Cafe.
+- Menu – Displays food and drinks.
+- Gallery – Shows food and drinks pictures.
+- Contact – Provides contact information and opening hours.
+
+## Technologies Used
+- HTML
+- CSS
+
+## Website Theme
+- Background: Cream (#f5eee6)
+- Headings: Brown (#654321)
+- Text: Dark Grey (#333333)
+- Font: Arial
+
+## Live Website
+https://qudsia-arshad.github.io/my-cafe-website/
+
+## GitHub Repository
+https://github.com/qudsia-arshad/my-cafe-website
